@@ -1,16 +1,15 @@
-### Hi there 👋
+#ikiimprovment
+website IKI
 
-<!--
-**jessyntahusain/jessyntahusain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+1. Bikin Tabel di mahasiswa.php
+Bikin database di phpmyadmin 'db_mahasiswa'
+2. Bikin tabel di phpmyadmin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| id | nama | nim|
+
+
+4. Bikin tabel di mahasiswa, php dinamis sesuai dengan isi tabel 'mahasiswa'
+
+#create
+|
